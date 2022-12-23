@@ -24,6 +24,13 @@
   color: white;
 }
 
+.display-box{
+  color: blue;
+  outline: 3px solid black;
+  width: 30%;
+  margin-left: 35%;
+}
+
 .App-link {
   color: #61dafb;
 }
